@@ -3,8 +3,8 @@ const monthName = document.getElementById("monthName");
 const themePicker = document.getElementById("themePicker");
 
 const MONTHS = [
-  "Aurora","Borealis","Cetus","Draco","Equinox","Fenix","Gaia",
-  "Helios","Ion","Janus","Kronos","Luna","Nova"
+  "1 Eyns","2 Tsvey","3 Dray","4 Fir","5 Finf","6 Zeks","7 Zibn",
+  "8 Akht","9 Nayn","10 Tsen","11 Elf","12 Tsvelf","13 Draytsn"
 ];
 
 // THEME
